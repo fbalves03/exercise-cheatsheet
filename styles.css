@@ -1,0 +1,35 @@
+body {
+    background-color: #DCDCDC;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color:#663399;
+}
+
+table {
+    width: 650px;
+    border: 2px solid #663399;
+    margin: 0 auto;
+}
+
+thead {
+    text-align: center;
+    font-weight: bold;
+    background-color: #DDA0DD;
+}
+
+tbody td {
+    border-top: 1px solid #663399;
+}
+
+.code {
+    font-family: monospace;
+    font-size: 13px;
+    background-color:beige;
+}
